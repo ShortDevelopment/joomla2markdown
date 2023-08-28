@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "run": "npx ts-node convert.ts"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "turndown": "^7.1.2"
+  },
+  "devDependencies": {
+    "@types/turndown": "^5.0.1"
+  }
+}

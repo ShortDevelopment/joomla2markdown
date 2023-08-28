@@ -1,0 +1,7 @@
+.vs/
+
+ROOT/
+content.json
+categories.json
+users.json
+node_modules/
